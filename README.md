@@ -1,2 +1,2 @@
 # Win-Hardening
-Pshh! Just some Windows Hardening Scripts from AD Attacks.
+Pshh! Just some AD Hardening Scripts from Attacks.
